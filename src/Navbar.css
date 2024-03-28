@@ -1,0 +1,14 @@
+.navbar {
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar h1 {
+  text-align: center;
+  margin: 0;
+  color: white;
+  /* display: inline-block; */
+  /* margin-right: "auto"; */
+}
