@@ -1,6 +1,6 @@
 export const randomWordList = ['About', 'Alert','Argue', 'Beach',
    'Above','Alike', 'Arise','Began',
-    'Abuse', 	'Alive', 	'Array', 	'Begin',
+    'Abuse', 	'Alive', 	'Array', 	'BEGIN',
     'Actor', 	'Allow', 	'Aside', 	'Begun',
     'Acute', 	'Alone', 	'Asset', 	'Being',
     'Admit' ,  'Along' ,	'Audio' ,	'Below',
